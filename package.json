@@ -7,10 +7,7 @@
     "test": "standard",
     "start": "./bin/node-bin-example"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/gr2m/node-bin-example.git"
-  },
+  "repository": "github:gr2m/node-bin-example",
   "keywords": [
     "example",
     "cli"
@@ -18,10 +15,6 @@
   "bin": "./bin/node-bin-example",
   "author": "Gregor Martynus <gregor@martynus.net>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/gr2m/node-bin-example/issues"
-  },
-  "homepage": "https://github.com/gr2m/node-bin-example#readme",
   "devDependencies": {
     "standard": "^4.3.1"
   }
